@@ -1,0 +1,6 @@
+targets:
+  - name: test
+    sources:
+      - strings.ini
+    file: Translations/%locale%.xliff
+    format: xliff
