@@ -1,3 +1,0 @@
-files:
-  - source: /Droptop/@Resources/GlobalVar/Languages/en-US.inc
-    translation: /Droptop/@Resources/GlobalVar/Languages/%locale%.inc
